@@ -1,0 +1,50 @@
+.navbar-default{
+    background-color: #333;
+    border-color: #333;
+}
+.navbar-default .navbar-nav>li>a{
+    color:#888888;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+color: #FFFFFF;
+background-color:#000000;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+color: #FFF;
+background-color: #000;
+}
+
+div.top{
+text-align: center;
+font-size:120%;
+background-color: #DDD;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+div.heading{
+    font-size: 200%;
+}
+div.area{
+    max-width: auto;
+    margin-left: auto;
+}
+/*
+div.List{
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+.center{
+    text-align: center;
+}
+.sakuhin{
+    max-width: 1000px;
+    margin: 0 auto;
+}
